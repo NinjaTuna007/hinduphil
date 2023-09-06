@@ -55,29 +55,29 @@ exclude:
 # # Permalinks
 # permalink: /:categories/:title/
 
-# # Pagination
-paginate: 5
-paginate_path: "/page:num/"
+# # # Pagination
+# paginate: 5
+# paginate_path: "/page:num/"
 
-# Categories
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author_profile: true
-      share: true
-      related: true
-      comments: true
-      categories: ["uncategorized"]
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      author_profile: true
-      share: true
-      related: true
-      comments: true
-      categories: ["uncategorized"]
+# # Categories
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       author_profile: true
+#       share: true
+#       related: true
+#       comments: true
+#       categories: ["uncategorized"]
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
+#       author_profile: true
+#       share: true
+#       related: true
+#       comments: true
+#       categories: ["uncategorized"]
