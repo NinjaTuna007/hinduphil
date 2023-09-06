@@ -17,17 +17,21 @@ author:
 nav_links:
   - title: Home
     url: /
-  - title: About
-    url: /about.html
-  - title: Contact
-    url: /contact.html
+  # - title: Home
+  #   url: /
+  # - title: About
+  #   url: /about.html
+  # - title: Contact
+  #   url: /contact.html
 
 # Social media links
 social_links:
   - title: Twitter
-    url: https://twitter.com/<username>
+    url: https://twitter.com/DevmShekhar
   - title: GitHub
-    url: https://github.com/<username>
+    url: https://github.com/NinjaTuna007
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sdupadhyay/
 
 # Build settings for GitHub Pages
 remote_theme: "mmistakes/minimal-mistakes"
