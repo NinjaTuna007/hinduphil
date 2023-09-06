@@ -8,8 +8,7 @@ plugins:
 title: Hinduphil
 description: A blog about Hinduism, Indian culture, and more
 # baseurl: /
-author:
-  name: Shekhar Devm Upadhyay
+author: Shekhar Devm Upadhyay
 
 # Navigation links
 # nav_links:
