@@ -41,16 +41,16 @@ social_links:
 #   - jekyll-remote-theme
 
 # Exclude files from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - node_modules
-  - vendor
-  - _config.yml
-  - .gitignore
-  - .github
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
+#   - LICENSE
+#   - node_modules
+#   - vendor
+#   - _config.yml
+#   - .gitignore
+#   - .github
 
 # # Permalinks
 # permalink: /:categories/:title/
