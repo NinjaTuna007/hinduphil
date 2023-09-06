@@ -1,28 +1,81 @@
-# Set the theme of your site here.
-theme: minima
-
-# Path: _config.yml
-
 # Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Site settings
+title: Hinduphil
+description: A blog about Hinduism, Indian culture, and more
+url: https://<username>.github.io
+baseurl: /<repository-name>
+author:
+  name: Shekhar Devm Upadhyay
+  email: shekhardevmupadhyay@example.com
+
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  - title: Contact
+    url: /contact.html
+
+# Social media links
+social_links:
+  - title: Twitter
+    url: https://twitter.com/<username>
+  - title: GitHub
+    url: https://github.com/<username>
+
+# Build settings for GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor
+  - _config.yml
+  - .gitignore
+  - .github
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Pagination
 paginate: 5
-paginate_path: "page:num"
-exclude: ["Gemfile", "Gemfile.lock", "README.md", "Rakefile", "vendor", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+paginate_path: "/page:num/"
 
-title: "The Hindu way of Life"
-
-description: "A blog about Hinduism, Hindu way of life, Hindu culture, Hinduism, Hindu Dharma, Hindu Scriptures, Hindu Philosophy, Hindu Saints and Sages, Hindu Epics and Hinduism in general."
-
-author: "Shekhar Devm Upadhyay"
-
-# allow comments
-comments: true
-
-# show emojis from markdown
-show_downloaded_emojis: true
-# show emojis from github
-show_github_emojis: true
-# show emojis from gitlab
-show_gitlab_emojis: true
+# Categories
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author_profile: true
+      share: true
+      related: true
+      comments: true
+      categories: ["uncategorized"]
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      author_profile: true
+      share: true
+      related: true
+      comments: true
+      categories: ["uncategorized"]
