@@ -15,10 +15,10 @@ author:
 
 # Navigation links
 nav_links:
+  - title: Home
+    url: /index.md
   - title: About Me
-    url: ./_posts/2023-09-06-who-am-i.md
-  # - title: Home
-  #   url: /
+    url: /_posts/2023-09-06-who-am-i.md
   # - title: About
   #   url: /about.html
   # - title: Contact
