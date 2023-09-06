@@ -7,7 +7,7 @@ plugins:
 # Site settings
 title: Hinduphil
 description: A blog about Hinduism, Indian culture, and more
-# baseurl: /
+baseurl: /index.md
 author: Shekhar Devm Upadhyay
 
 # Navigation links
@@ -16,10 +16,10 @@ author: Shekhar Devm Upadhyay
 #     url: /index.md
 #   - title: About Me
 #     url: /_posts/2023-09-06-who-am-i.md
-  # - title: About
-  #   url: /about.html
-  # - title: Contact
-  #   url: /contact.html
+#   - title: About
+#     url: /about.html
+#   - title: Contact
+#     url: /contact.html
 
 # Social media links
 social_links:
