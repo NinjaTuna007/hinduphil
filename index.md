@@ -1,6 +1,7 @@
 ---
 title: Welcome to Hinduphilia!
 author: Shekhar Devm Upadhyay
+date: 2023-09-06
 ---
 
 # Welcome to Hinduphil!
