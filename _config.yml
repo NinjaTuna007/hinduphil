@@ -20,5 +20,9 @@ author: "Shekhar Devm Upadhyay"
 # allow comments
 comments: true
 
-# show emoji
-emoji: true
+# show emojis from markdown
+show_downloaded_emojis: true
+# show emojis from github
+show_github_emojis: true
+# show emojis from gitlab
+show_gitlab_emojis: true
