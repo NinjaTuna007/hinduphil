@@ -1,0 +1,18 @@
+# Set the theme of your site here.
+theme: minima
+
+# Path: _config.yml
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+paginate_path: "page:num"
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "Rakefile", "vendor", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+
+title: "The Hindu way of Life"
+
+description: "A blog about Hinduism, Hindu way of life, Hindu culture, Hinduism, Hindu Dharma, Hindu Scriptures, Hindu Philosophy, Hindu Saints and Sages, Hindu Epics and Hinduism in general."
+
+author: "Shekhar Devm Upadhyay"
