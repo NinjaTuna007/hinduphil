@@ -1,8 +1,8 @@
 # Build settings
 markdown: kramdown
 theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Site settings
 title: Hinduphil
