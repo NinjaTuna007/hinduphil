@@ -1,10 +1,8 @@
 ---
-title: Welcome to Hinduphilia!
+title: Welcome to Hinduphil!
 author: Shekhar Devm Upadhyay
 date: 2023-09-06
 ---
-
-# Welcome to Hinduphil!
 
 Hello, and welcome to my website! Through this blog, I will be sharing my thoughts on various topics, including but not limited to, Hinduism, Indian culture, Indian history, Indian politics, and Indian economy. I will also be sharing my thoughts on various other topics, including but not limited to, science, technology, and philosophy.
 
