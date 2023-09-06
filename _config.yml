@@ -11,7 +11,6 @@ url: https://ninjatuna007.github.io/hinduphil
 baseurl: /index.md
 author:
   name: Shekhar Devm Upadhyay
-  email: shekhardevm@gmail.com
 
 # Navigation links
 nav_links:
@@ -58,8 +57,8 @@ exclude:
 # permalink: /:categories/:title/
 
 # # Pagination
-# paginate: 5
-# paginate_path: "/page:num/"
+paginate: 5
+paginate_path: "/page:num/"
 
 # Categories
 defaults:
