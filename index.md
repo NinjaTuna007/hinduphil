@@ -10,5 +10,5 @@ Keep in mind that the content of this blog is my own personal opinion, based on 
 
 Further, the views expressed in this blog are my own, and do not necessarily reflect the views of my employer, my family, or my friends.
 
-With that said, I hope you enjoy reading my blog, and look forward to hearing your opinions and feedback! :grinning:
+With that said, I hope you enjoy reading my blog, and look forward to hearing your opinions and feedback!
 
