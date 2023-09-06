@@ -7,8 +7,8 @@ plugins:
 # Site settings
 title: Hinduphil
 description: A blog about Hinduism, Indian culture, and more
-url: https://ninjatuna007.github.io/
-baseurl: /hinduphil
+url: https://ninjatuna007.github.io/hinduphil
+baseurl: ./index.md
 author:
   name: Shekhar Devm Upadhyay
   email: shekhardevmupadhyay@example.com
