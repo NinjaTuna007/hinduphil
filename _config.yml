@@ -7,7 +7,7 @@ plugins:
 # Site settings
 title: Hinduphil
 description: A blog about Hinduism, Indian culture, and more
-baseurl: /
+# baseurl: /
 author:
   name: Shekhar Devm Upadhyay
 
