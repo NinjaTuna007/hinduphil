@@ -54,12 +54,12 @@ exclude:
   - .gitignore
   - .github
 
-# Permalinks
-permalink: /:categories/:title/
+# # Permalinks
+# permalink: /:categories/:title/
 
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
+# # Pagination
+# paginate: 5
+# paginate_path: "/page:num/"
 
 # Categories
 defaults:
