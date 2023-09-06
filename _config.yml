@@ -16,3 +16,9 @@ title: "The Hindu way of Life"
 description: "A blog about Hinduism, Hindu way of life, Hindu culture, Hinduism, Hindu Dharma, Hindu Scriptures, Hindu Philosophy, Hindu Saints and Sages, Hindu Epics and Hinduism in general."
 
 author: "Shekhar Devm Upadhyay"
+
+# allow comments
+comments: true
+
+# show emoji
+emoji: true
